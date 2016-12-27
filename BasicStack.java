@@ -1,4 +1,4 @@
-package StackAndQueue;
+
 
 public class BasicStack {
 	private int maxSize;
