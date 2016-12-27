@@ -1,4 +1,4 @@
-package StackAndQueue;
+
 
 public class CharStack {
 		private int maxSize;
