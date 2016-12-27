@@ -1,4 +1,4 @@
-package StackAndQueue;
+
 
 public class InToPostfix {
 	private String output = "";
